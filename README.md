@@ -1,7 +1,13 @@
 # My alg `.json` files
 
-All the links are PRs on [https://github.com/spencerchubb/cubingapp](https://github.com/spencerchubb/cubingapp)
+Some cubing algorithm `.json` files I have written.
 
-[https://github.com/spencerchubb/cubingapp/pull/10])Pyra L3E)
-[https://github.com/spencerchubb/cubingapp/pull/13](Pyra L4E)
-[https://github.com/spencerchubb/cubingapp/pull/17](FTO TC))
+## Pyra LBL
+<a href="https://github.com/spencerchubb/cubingapp/pull/10">https://github.com/spencerchubb/cubingapp/pull/10</a>
+<br>
+
+## Pyra L4E
+<a href="https://github.com/spencerchubb/cubingapp/pull/13">https://github.com/spencerchubb/cubingapp/pull/13</a>
+<br>
+## FTO TCP
+<a href="https://github.com/spencerchubb/cubingapp/pull/17">https://github.com/spencerchubb/cubingapp/pull/17</a>
