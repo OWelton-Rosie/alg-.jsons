@@ -1,4 +1,4 @@
-# My alg `.json` files
+# alg-jsons
 
 A collection of cubing algorithm `.json` files I've written.
 <br>
