@@ -3,7 +3,7 @@
 A collection of speedcubing algorithm `.json` files I've written.
 <br>
 
-Each link goes to a Pull Request on the [https://github.com/spencerchubb/cubingapp](CubingApp GitHub repo) where I submitted the algorithm `.json`.
+Each link goes to a Pull Request on the <a href="https://github.com/spencerchubb/cubingapp">CubingApp GitHub repo</a> where I submitted the algorithm `.json` file.
 
 <a href="https://github.com/spencerchubb/cubingapp/pull/10">https://github.com/spencerchubb/cubingapp/pull/10</a>
 <br>
